@@ -27,6 +27,4 @@ Interestingly, the ***ClusterCentroids*** technique does have a near perfect Rec
 
 It may be useful to try other models, such as Random  Forest, to find a reliable High Risk evaluator.
 
-
-
-![image-20200422151356319](C:\Users\Marishka\Documents\DABootCamp\M17-MachineLearning\SupervisedMachineLearning\Images\image-20200422151356319.png)
+![](Images/image-20200422151356319.png)
